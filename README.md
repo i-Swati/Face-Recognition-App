@@ -8,7 +8,7 @@ This project is all about building a powerful face recognition app using Python 
 This app utilizes advanced facial recognition algorithms to identify faces in images. 
 
 #Demo
-![image](https://github.com/i-Swati/Face-Recognition-App/assets/137554521/274fffd3-8e0d-43d6-9303-d614c69fedf1)
+![image](https://github.com/i-Swati/Face-Recognition-App/assets/137554521/9201880e-cbe7-415e-a1a9-57afe720c1ad)
 
 
 🌟 Features:
