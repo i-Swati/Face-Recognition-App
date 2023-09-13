@@ -1,6 +1,6 @@
 # Face-Recognition-App 🌟
 
-👋 Welcome to my Face Recognition App repository!
+### 👋 Welcome to my Face Recognition App repository!
 
 This project is all about building a powerful face recognition app using Python and Jupyter Notebook.
 
@@ -20,4 +20,4 @@ This app utilizes advanced facial recognition algorithms to identify faces in im
 
 
 
--🎉 Thank you for checking out my Face Recognition App! Enjoy detecting faces! 👋
+### 🎉 Thank you for checking out my Face Recognition App! Enjoy detecting faces! 👋
