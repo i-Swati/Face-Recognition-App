@@ -3,7 +3,7 @@
 ### 👋 Welcome to my Face Recognition App repository!
 
 This project is all about building a powerful face recognition app using Python and Jupyter Notebook.
-
+Additionally, I have used Streamlit: an open source framework to create beautiful and performant apps.
 ## 📷 Overview:
 This app utilizes advanced facial recognition algorithms to identify faces in images. 
 
