@@ -8,9 +8,10 @@ Additionally, I have used Streamlit: an open source framework to create beautifu
 This app utilizes advanced facial recognition algorithms to identify faces in images. 
 
 ## Demo
+#### Jupyter Notebook
 ![image](https://github.com/i-Swati/Face-Recognition-App/assets/137554521/9201880e-cbe7-415e-a1a9-57afe720c1ad)
 
-Streamlit
+#### Streamlit
 ![image](https://github.com/i-Swati/Face-Recognition-App/assets/137554521/1a0fde63-dd2c-4efd-b679-f5e562405376)
 ![image](https://github.com/i-Swati/Face-Recognition-App/assets/137554521/d8dab803-0063-45b9-a6e1-43fdfad3f002)
 
